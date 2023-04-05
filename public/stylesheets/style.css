@@ -1,0 +1,25 @@
+body {
+  color: aliceblue;
+  background-color:burlywood;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.header button {
+  font-size: 2em;
+  display: flex;
+  flex-direction: row;
+}
+
+.mozart-img-home {
+  margin-top: 50px;
+  height: 800px;
+}
